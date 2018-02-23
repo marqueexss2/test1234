@@ -18,7 +18,7 @@
         }
     },
     "preview": {
-        "@url": "javascript://www.com?%0aalert%28document.domain%29"
+        "url": "javascript://www.com?%0aalert%28document.domain%29"
     },
     "run": {
         "configs": {
